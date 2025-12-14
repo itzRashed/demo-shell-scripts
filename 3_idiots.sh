@@ -1,6 +1,12 @@
 #!/bin/bash
 
 # user defined variables
+
+<<help
+This is a comment line to check my git is pull/pushed
+from local to git repo or not
+help
+
 hero="rancho"
 villain="virus"
 
